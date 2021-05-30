@@ -5743,7 +5743,7 @@ input::-ms-clear {
     cursor: pointer;
     color: #ffffff; }
   .mega-menu {
-    display: none; }
+    display: block; }
   .mega-menu-list {
     padding: 20px;
     border: 1px solid #f6f6f6; }
