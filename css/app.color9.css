@@ -952,8 +952,8 @@ input::-ms-clear {
 
 /* Preload Aspect Ratio Component */
 /*
-  * Example 1 For Square: <a class="aspect aspect--bg-grey aspect--square u-d-block"><img src="/a.jpg" class="aspect__img" alt=""></a>
-  * Example 2 For Non Square: <div class="aspect aspect--bg-grey aspect--1286-890"><img src="/a.jpg" class="aspect__img" alt=""></div>
+  * Example 1 For Square: <a class="aspect aspect--bg-grey aspect--square u-d-block"><img src="a.jpg" class="aspect__img" alt=""></a>
+  * Example 2 For Non Square: <div class="aspect aspect--bg-grey aspect--1286-890"><img src="a.jpg" class="aspect__img" alt=""></div>
  */
 /*
   * Some Points to use Aspect Ratio Component classes:

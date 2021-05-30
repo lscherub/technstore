@@ -952,8 +952,8 @@ input::-ms-clear {
 
 /* Preload Aspect Ratio Component */
 /*
-  * Example 1 For Square: <a class="aspect aspect--bg-grey aspect--square u-d-block"><img src="/a.jpg" class="aspect__img" alt=""></a>
-  * Example 2 For Non Square: <div class="aspect aspect--bg-grey aspect--1286-890"><img src="/a.jpg" class="aspect__img" alt=""></div>
+  * Example 1 For Square: <a class="aspect aspect--bg-grey aspect--square u-d-block"><img src="a.jpg" class="aspect__img" alt=""></a>
+  * Example 2 For Non Square: <div class="aspect aspect--bg-grey aspect--1286-890"><img src="a.jpg" class="aspect__img" alt=""></div>
  */
 /*
   * Some Points to use Aspect Ratio Component classes:
@@ -1370,8 +1370,7 @@ input::-ms-clear {
         justify-content: space-between;
     margin-bottom: 6px; }
   .product-r__name, .product-r__price {
-    -ms-flex: 0 1 auto; 
-    flex: 0 1 auto; }
+    -ms-flex: 0 1 auto; }
   .product-r__name {
     display: block; }
     .product-r__name > a {
@@ -2135,8 +2134,7 @@ input::-ms-clear {
     -ms-flex-align: center;
         align-items: center; }
   .lower-footer__copyright, .lower-footer__payment {
-    -ms-flex: 0 1 auto; 
-    flex: 0 1 auto; }
+    -ms-flex: 0 1 auto; }
   .lower-footer__copyright span {
     font-size: 13px;
     color: #ffffff; }
@@ -2553,8 +2551,7 @@ input::-ms-clear {
   box-shadow: 0 6px 15px 0 rgba(36, 37, 38, 0.08);
   border: 2px solid #f5f5f5; }
   .service__icon, .service__info-wrap {
-    -ms-flex: 0 1 auto; 
-    flex: 0 1 auto; }
+    -ms-flex: 0 1 auto; }
   .service__icon {
     margin-right: 20px; }
     .service__icon > i {
@@ -2874,8 +2871,7 @@ input::-ms-clear {
     -ms-flex-pack: justify;
         justify-content: space-between; }
   .w-r__wrap-1, .w-r__wrap-2 {
-    -ms-flex: 0 1 auto; 
-    flex: 0 1 auto; }
+    -ms-flex: 0 1 auto; }
   .w-r__wrap-1 {
     display: -ms-flexbox;
     display: flex;
@@ -2944,8 +2940,7 @@ input::-ms-clear {
   -ms-flex-pack: justify;
       justify-content: space-between; }
   .route-box__g {
-    -ms-flex: 0 1 auto; 
-    flex: 0 1 auto; }
+    -ms-flex: 0 1 auto; }
   .route-box__link {
     color: #333333;
     font-size: 13px;
